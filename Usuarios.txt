@@ -1,0 +1,20 @@
+
+index.php - Introducir correo y clave.
+
+home.php - Tiene el menu de navegación con todas las opciones. Se pueden registrar Órdenes de compra de productos o insumos, 
+ver estas ordenes, borrarlas, procesarlas y verlas en PDF.
+
+Se pueden crear, borrar y editar productos, asi como generar reportes y ver las gráficas de los 5 productos más vendidos
+y de los 5 mas fabricados. Al ver los productos se indica su stock, precio, estatus de producción y nombre.
+
+Se pueden crear, borrar y editar insumos, asi como generar reportes y ver la gráfica de los 5 insumos más pedidos.
+
+
+
+
+
+
+
+Gwenstefani@gmail.com
+333
+Rol: 3 - Cliente
